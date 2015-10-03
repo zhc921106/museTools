@@ -1,0 +1,26 @@
+[
+  {
+    "0": "id",
+    "1": "Name",
+    "2": "Desc",
+    "3": "Cooldown",
+    "4": "Type",
+    "5": "Damage",
+    "6": "AttackCount",
+    "7": "MaxTargetCount",
+    "8": "BuffId",
+    "9": "DebuffId"
+  },
+  {
+    "id": 50001,
+    "Name": "眩晕",
+    "Desc": "群体攻击，每个目标一定几率直接死亡",
+    "Cooldown": 3,
+    "Type": 1,
+    "Damage": 1000,
+    "AttackCount": 1,
+    "MaxTargetCount": 4,
+    "BuffId": null,
+    "DebuffId": null
+  }
+]

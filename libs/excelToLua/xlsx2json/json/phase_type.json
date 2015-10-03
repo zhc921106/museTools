@@ -1,0 +1,32 @@
+[
+  {
+    "0": "id",
+    "1": "value",
+    "2": "desc"
+  },
+  {
+    "id": "Metal",
+    "value": 1,
+    "desc": "金"
+  },
+  {
+    "id": "Wood",
+    "value": 2,
+    "desc": "木"
+  },
+  {
+    "id": "Water",
+    "value": 3,
+    "desc": "水"
+  },
+  {
+    "id": "Fire",
+    "value": 4,
+    "desc": "火"
+  },
+  {
+    "id": "Earth",
+    "value": 5,
+    "desc": "土"
+  }
+]

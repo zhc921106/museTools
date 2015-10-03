@@ -1,0 +1,22 @@
+[
+  {
+    "0": "id",
+    "1": "value",
+    "2": "desc"
+  },
+  {
+    "id": "Friend",
+    "value": 1,
+    "desc": "已方"
+  },
+  {
+    "id": "Enemy",
+    "value": 2,
+    "desc": "敌方"
+  },
+  {
+    "id": "Other",
+    "value": 3,
+    "desc": "第三方"
+  }
+]

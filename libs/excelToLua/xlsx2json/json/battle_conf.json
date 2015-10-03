@@ -1,0 +1,47 @@
+[
+  {
+    "0": "id",
+    "1": "value",
+    "2": "desc"
+  },
+  {
+    "id": "Damage_ReduceFactor",
+    "value": 100,
+    "desc": "伤害计算(减伤)因子"
+  },
+  {
+    "id": "Damage_PhaseCounteractBonus",
+    "value": 0.1,
+    "desc": "属性克制伤害加成"
+  },
+  {
+    "id": "Damage_PhysicalMagicRatio",
+    "value": 0.7,
+    "desc": "普通攻击中物理伤害和魔法伤害的比例"
+  },
+  {
+    "id": "Weight_PhaseCounteract",
+    "value": 0.5,
+    "desc": "属性克制优先权重"
+  },
+  {
+    "id": "Weight_HighHatred",
+    "value": 0.7,
+    "desc": "仇恨值优先权重"
+  },
+  {
+    "id": "Weight_LowHp",
+    "value": 0.6,
+    "desc": "血量低优先权重"
+  },
+  {
+    "id": "Weight_Near",
+    "value": 1,
+    "desc": "距离近优先权重"
+  },
+  {
+    "id": "Weight_InAttackRange",
+    "value": 0.8,
+    "desc": "在攻击范围内优先级权重"
+  }
+]

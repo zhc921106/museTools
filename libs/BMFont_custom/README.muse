@@ -1,0 +1,28 @@
+
+	配置根据图片集一键生成BMFont文件工具
+
+1 安装TexturePacker(TP)v3.5.3版本以上及其命令行工具
+
+2 激活TP，需要用到激活码，可以参照 http://www.cnblogs.com/cg-Yun/p/4110762.html 最下面的部分申请一个，
+	或者联系 QQ2482673052要一个。
+
+3 TP->Preferences->Settings->Exporter Directory,设置路径为本目录下面的 my-TP-Exporters, OK , 重启 TP
+
+4 更改 动态生成BMFont/TP.command 权限为可执行（755）
+
+5 将需要生成在一个BMFont文件中的所有图片保存在 动态生成BMFont 目录的一个文件夹下，文件夹的名字即为要生成文件的名字
+
+6 配置 TP.command 文件中的 $IMAGE_DIR 为刚才的文件夹路径，保存退出
+
+7 双击 TP.command 运行，目标文件将生成在 动态生成BMFont 目录下
+
+以后每次使用直接使用 5、6、7 步便可以了
+
+
+
+
+
+
+
+
+

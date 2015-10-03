@@ -1,0 +1,68 @@
+[
+  {
+    "0": "Type",
+    "1": "Min",
+    "2": "Max",
+    "3": "Desc"
+  },
+  {
+    "Type": "Hero",
+    "Min": 10001,
+    "Max": 20000,
+    "Desc": "总体的英雄（包含了，Friend，Enemy，Other）"
+  },
+  {
+    "Type": "Friend",
+    "Min": 10001,
+    "Max": 11000,
+    "Desc": "已方人物"
+  },
+  {
+    "Type": "Enemy",
+    "Min": 11001,
+    "Max": 12000,
+    "Desc": "敌方人物"
+  },
+  {
+    "Type": "Other",
+    "Min": 12001,
+    "Max": 13000,
+    "Desc": "中立"
+  },
+  {
+    "Type": "FriendBuilding",
+    "Min": 13001,
+    "Max": 14000,
+    "Desc": "已方建筑"
+  },
+  {
+    "Type": "EnemyBuilding",
+    "Min": 14001,
+    "Max": 15000,
+    "Desc": "敌方建筑"
+  },
+  {
+    "Type": "OtherBuilding",
+    "Min": 15001,
+    "Max": 16000,
+    "Desc": "中立建筑"
+  },
+  {
+    "Type": "Skill",
+    "Min": 30001,
+    "Max": 40000,
+    "Desc": "技能"
+  },
+  {
+    "Type": "Buff",
+    "Min": 40001,
+    "Max": 50000,
+    "Desc": "增益"
+  },
+  {
+    "Type": "Debuff",
+    "Min": 50001,
+    "Max": 60000,
+    "Desc": "减益"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "0": "id",
+    "1": "['config.path']",
+    "2": "['config.name']",
+    "3": "['config.direction']",
+    "4": "WALK",
+    "5": "IDLE",
+    "6": "DEAD",
+    "7": "ATTACK",
+    "8": "SKILL"
+  },
+  {
+    "id": 1,
+    "['config.path']": "object/monster/Footman.ExportJson",
+    "['config.name']": "Footman",
+    "['config.direction']": 0,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 2,
+    "['config.path']": "object/monster/Rifleman_prj.ExportJson",
+    "['config.name']": "Rifleman_prj",
+    "['config.direction']": 0,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 3,
+    "['config.path']": "object/monster/Priest.ExportJson",
+    "['config.name']": "Priest",
+    "['config.direction']": 0,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 4,
+    "['config.path']": "object/monster/Mountain.ExportJson",
+    "['config.name']": "Mountain",
+    "['config.direction']": 0,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 5,
+    "['config.path']": "object/monster/Knights.ExportJson",
+    "['config.name']": "Knights",
+    "['config.direction']": 0,
+    "WALK": "Run",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 6,
+    "['config.path']": "object/ultraman/atm-1--.ExportJson",
+    "['config.name']": "atm-1--",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack-1(arm)",
+    "SKILL": "Attack-1(arm)"
+  },
+  {
+    "id": 7,
+    "['config.path']": "object/ultraman/atm-2--.ExportJson",
+    "['config.name']": "atm-2--",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack-2(head)",
+    "SKILL": "Attack-2(head)"
+  },
+  {
+    "id": 8,
+    "['config.path']": "object/ultraman/atm-3--.ExportJson",
+    "['config.name']": "atm-3--",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack-3(arm)",
+    "SKILL": "Attack-3(arm)"
+  },
+  {
+    "id": 9,
+    "['config.path']": "object/ultraman/atm-4--.ExportJson",
+    "['config.name']": "atm-4--",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack-4(arm)",
+    "SKILL": "Attack-4(arm)"
+  },
+  {
+    "id": 10,
+    "['config.path']": "object/ultraman/atm-5--.ExportJson",
+    "['config.name']": "atm-5--",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack-5(arm)",
+    "SKILL": "Attack-5(arm)"
+  },
+  {
+    "id": 11,
+    "['config.path']": "object/ultraman/atm-6--.ExportJson",
+    "['config.name']": "atm-6--",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Show",
+    "DEAD": "Dead",
+    "ATTACK": "Attack-6(arm)",
+    "SKILL": "Attack-6(arm)"
+  },
+  {
+    "id": 12,
+    "['config.path']": "object/boss/BOSS_MOUNT_TANG.ExportJson",
+    "['config.name']": "BOSS_MOUNT_TANG",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Attack",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 13,
+    "['config.path']": "object/boss/dm.ExportJson",
+    "['config.name']": "dm",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Attack",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 14,
+    "['config.path']": "object/boss/BOSS_JIN.ExportJson",
+    "['config.name']": "BOSS_JIN",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Attack",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  },
+  {
+    "id": 15,
+    "['config.path']": "object/boss/Boss_ET.ExportJson",
+    "['config.name']": "Boss_ET",
+    "['config.direction']": 180,
+    "WALK": "Walk",
+    "IDLE": "Attack",
+    "DEAD": "Dead",
+    "ATTACK": "Attack",
+    "SKILL": "Attack"
+  }
+]

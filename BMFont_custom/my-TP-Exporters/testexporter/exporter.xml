@@ -1,0 +1,54 @@
+<exporter version="1.0">
+     <!-- identifier of the exporter -->
+     <name>BMFont_custom</name>
+ 
+     <!-- display name of the exporter for the combo box -->
+     <!-- 此处更改的是在 TexturePacker 中显示的 format 类型 -->
+     <displayName>BMFont (custom)</displayName>
+     
+     <!-- description of the exporter -->
+     <!-- 此处的是这个 format 的简要说明 -->
+     <description>Exporter for BMFont, created by Yun</description>
+ 
+     <!-- exporter version -->
+     <!-- 此次更改的版本 -->
+     <version>1.0</version>
+     
+     <!-- currently only one file allowed - more to come with update -->
+     <!-- 下面改的是生成的文件的后缀名信息，和生成的 format 参照模板 -->
+     <files>
+         <file>
+             <!-- name of this file variable -->
+             <name>fnt</name>
+ 
+             <!-- human readable name (for GUI) -->
+             <displayName>fnt</displayName>
+ 
+             <!-- file extension for the file -->
+             <fileExtension>fnt</fileExtension>
+ 
+             <!-- name of the template file -->
+             <!-- 参照模板， 必须要和本文件处在同一目录下 -->
+             <template>BMFont_custom.fnt</template>
+         </file>
+     </files>
+ 
+     <!-- target framework supports trimming -->
+     <supportsTrimming>true</supportsTrimming>
+ 
+     <!-- target framework supports rotated sprites -->
+     <supportsRotation>false</supportsRotation>
+ 
+     <!-- rotated sprites direction (cw/ccw) -->
+     <rotationDirection>cw</rotationDirection>
+ 
+     <!-- supports npot sizes -->
+     <supportsNPOT>true</supportsNPOT>
+ 
+     <!-- supports file name stripping (remove .png etc) -->
+     <supportsTrimSpriteNames>yes</supportsTrimSpriteNames>
+ 
+     <!-- supports texure subpath -->
+     <supportsTextureSubPath>yes</supportsTextureSubPath>
+ 
+</exporter>

@@ -1,0 +1,8 @@
+{
+    "xlsx": {
+        "head": 3,
+        "src": "./../../../../game-01/trunk/musegame/Assets/configs/**/[^~$]*.xlsx",
+        "dest": "./json",
+        "arraySeparator":","
+    }
+}

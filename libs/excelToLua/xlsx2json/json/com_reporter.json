@@ -1,0 +1,30 @@
+[
+  {
+    "0": "id",
+    "1": "['hpbar.path']",
+    "2": "['hpbar.color']",
+    "3": "['hpbar.backcolor']",
+    "4": "['emitter.font']",
+    "5": "['emitter.range']",
+    "6": "['emitter.dec_color']",
+    "7": "['emitter.inc_color']"
+  },
+  {
+    "id": 1,
+    "['hpbar.path']": "tmp/hp_bar.png",
+    "['hpbar.color']": "return cc.c3b(250,0,10)",
+    "['emitter.font']": "res/tmp/fonts/muse_0.fnt",
+    "['emitter.range']": 20,
+    "['emitter.dec_color']": "return cc.c3b(250,0,10)",
+    "['emitter.inc_color']": "return cc.c3b(28,136,218)"
+  },
+  {
+    "id": 2,
+    "['hpbar.path']": "tmp/hp_bar.png",
+    "['hpbar.color']": "return cc.c3b(28,136,218)",
+    "['emitter.font']": "res/tmp/fonts/muse_0.fnt",
+    "['emitter.range']": 20,
+    "['emitter.dec_color']": "return cc.c3b(150,0,10)",
+    "['emitter.inc_color']": "return cc.c3b(28,218,18)"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "0": "id",
+    "1": "['gameplay.component.Brain']",
+    "2": "['gameplay.component.Steer']",
+    "3": "['gameplay.component.Animator']",
+    "4": "['gameplay.component.Reporter']",
+    "5": "['gameplay.component.Renderer']",
+    "6": "['gameplay.component.Perception']",
+    "7": "['gameplay.component.Skill']"
+  },
+  {
+    "id": 1,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.self_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 4,
+    "['gameplay.component.Reporter']": 2,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": 30001
+  },
+  {
+    "id": 2,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.self_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 1,
+    "['gameplay.component.Reporter']": 2,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": 30002
+  },
+  {
+    "id": 3,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.self_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 2,
+    "['gameplay.component.Reporter']": 2,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": 30003
+  },
+  {
+    "id": 4,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.self_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 3,
+    "['gameplay.component.Reporter']": 2,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": 30005
+  },
+  {
+    "id": 5,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.self_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 5,
+    "['gameplay.component.Reporter']": 2,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": 30004
+  },
+  {
+    "id": 100,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.enemy_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 7,
+    "['gameplay.component.Reporter']": 1,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": 30006
+  },
+  {
+    "id": 101,
+    "['gameplay.component.Brain']": "app.gameplay.behavior.tree.enemy_normal",
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": 6,
+    "['gameplay.component.Reporter']": 1,
+    "['gameplay.component.Renderer']": false,
+    "['gameplay.component.Perception']": true,
+    "['gameplay.component.Skill']": false
+  },
+  {
+    "id": 201,
+    "['gameplay.component.Brain']": false,
+    "['gameplay.component.Steer']": true,
+    "['gameplay.component.Animator']": false,
+    "['gameplay.component.Reporter']": false,
+    "['gameplay.component.Renderer']": "return{['path']='tmp/tower.png', ['anchor']=cc.p(0.5,0.2), ['scale']=1}",
+    "['gameplay.component.Perception']": false,
+    "['gameplay.component.Skill']": false
+  }
+]
